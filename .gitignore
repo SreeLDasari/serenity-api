@@ -1,0 +1,13 @@
+# ignore files
+*.class
+*.tmp
+*.html
+*.bak
+*.swp
+*~.nib
+.classpath
+.project
+# ignore folders
+target/
+.settings/
+.metadata/
